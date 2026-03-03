@@ -1,1 +1,1 @@
-# -school-project-_AsthmaPaperStudy
+# SchoolProject_AsthmaPaperStudy
